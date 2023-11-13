@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Class Main untuk algoritma jalannya layanan Apotek Sehat Online
+ * Class Main untuk algoritma jalannya layanan Apotek DoubleR Online
  *
  * @author Rizky Yusmansyah (2208107010024), Reyan Andrea (2208107010014)
  * @version 13.11.2023

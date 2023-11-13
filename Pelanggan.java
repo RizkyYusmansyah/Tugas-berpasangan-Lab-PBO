@@ -1,3 +1,11 @@
+/**
+ * Merepresentasikan Pelanggan yaitu user yang sedang
+ * menggunakan layanan Apotek Sehat berbasis Online
+ *
+ * @author Rizky Yusmansyah (2208107010024), Reyan Andrea (2208107010014)
+ * @version 13.11.2023
+ * @since 10.11.2023
+ */
 public class Pelanggan {
     private String nama;
     private String ktp;
